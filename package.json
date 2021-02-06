@@ -1,0 +1,9 @@
+{
+  "name": "redoc-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redoc-cli": "^0.10.3"
+  }
+}
