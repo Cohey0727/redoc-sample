@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "redoc-cli bundle spec.yaml -o public/index.html"
+  },
   "dependencies": {
     "redoc-cli": "^0.10.3"
   }
